@@ -1,2 +1,3 @@
-# info2180-lab2
-Dynamic Web Dev Lab2 Repository
+# INFO2180 Lab 2
+This is Lab 2 for <Robert Fernandez>
+    
